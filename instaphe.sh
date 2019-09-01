@@ -50,7 +50,7 @@ printf "\e[1;92m ) )| ||  _ \  /___)(_   _)(____ | |  __| | |__   | |___        
 printf "\e[1;77m(_/ | || | | ||___ |  | |_ / ___ | | |    |  _ \  | |__         \e[0m\n"
 printf "\e[1;77m    |_||_| |_|(___/    \__)\_____| |_|    | | | | |____|        \e[0m\n"
 printf "\n"
-printf "\e[1;77m\e[45m  Instagram Brute Forcer v1.5.5 Author: @linux_choice (Github/IG)   \e[0m\n"
+printf "\e[1;77m\e[45m  Instagram Brute Forcer v1.1 Author: @0secdevil   \e[0m\n"
 printf "\n"
 }
 
